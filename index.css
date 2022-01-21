@@ -16,3 +16,7 @@ h{
     font: 1em sans-serif;
     display: inline;
 }
+h1{
+    font-size: 20px;
+    font-style: italic;
+}
