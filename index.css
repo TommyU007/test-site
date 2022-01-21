@@ -10,3 +10,7 @@ p{
     font-style: initial;
     font-weight: bolder;
 }
+h{
+    font: 1em sans-serif;
+    display: inline;
+}
