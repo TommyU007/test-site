@@ -3,6 +3,8 @@ body{
 }
 h1{
     font-size: 22px;
+    text-align: center;
+    width: 680px;
 
 }
 h2{
@@ -15,4 +17,9 @@ h2{
     padding-right: 7.5px;
     padding-left: 10px;
 
+}
+p{
+    font-style: normal;
+    text-align: initial;
+    text-size-adjust: 28px;
 }
