@@ -6,7 +6,7 @@ section{
     background-color: limegreen;
 }
 p{
-    font-size: 35px;
-    font-style: italic;
-    font-display: auto;
+    font-size: 15px;
+    font-style: initial;
+    font-weight: bolder;
 }
