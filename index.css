@@ -11,6 +11,8 @@ p{
     font-weight: bolder;
     padding-top: 20px;
     padding-bottom: 15;
+    padding-right: 8px;
+    padding-left: 10px;
 }
 h{
     font: 1em sans-serif;
