@@ -6,9 +6,11 @@ section{
     background-color: limegreen;
 }
 p{
-    font-size: 15px;
+    font-size: 10px;
     font-style: initial;
     font-weight: bolder;
+    padding-top: 20px;
+    padding-bottom: 15;
 }
 h{
     font: 1em sans-serif;
